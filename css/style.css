@@ -4963,7 +4963,7 @@ p {
   font-weight: 700;
   color: #fff;
   text-align: center;
-  margin: 10% 10% 0;
+  margin: 10%;
 }
 
 .modal-form {
@@ -5011,7 +5011,7 @@ p {
 
 /*==========================420px============================*/
 
-/*================================375px============================*/
+/*================================395px============================*/
 
 /*============================320px================================*/
 
@@ -6129,7 +6129,7 @@ p {
   }
 
   .modal__subtitle {
-    margin: 8% 8% 0;
+    margin: 8%;
   }
 
   .up-btn {
@@ -6140,7 +6140,7 @@ p {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 395px) {
   .box-header {
     padding-top: 18%;
   }
@@ -6410,7 +6410,7 @@ p {
 
 }
 
- @media (max-width: 375px){
+ @media (max-width: 395px){
 
 @supports (-webkit-appearance:none){
 
