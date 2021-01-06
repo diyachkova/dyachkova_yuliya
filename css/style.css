@@ -5786,6 +5786,7 @@ p {
   }
 
   .price-item {
+    margin-bottom: 4%;
     padding: 30px;
     width: 80%;
   }
@@ -5956,6 +5957,7 @@ p {
   }
 
   .about-grid-item {
+    margin-bottom: 3%;
     width: 80%;
     height: 100%;
   }
@@ -5998,7 +6000,7 @@ p {
   }
 
   .price-item {
-    width: 100%;
+    width: 75%;
   }
 
   .price-content {
@@ -6049,7 +6051,7 @@ p {
   }
 
   .form-box {
-    width: 100%;
+    width: 90%;
     margin-top: 3%;
   }
 
@@ -6297,6 +6299,7 @@ p {
   }
 
   .price-item {
+    width: 85%;
     padding: 20px;
   }
 
@@ -6333,103 +6336,4 @@ p {
     -webkit-animation-iteration-count: 1 !important;
     animation-iteration-count: 1 !important;
   }
-}
-@supports (-webkit-appearance:none){
-.header{background:url(../img/background.webp) center center/cover no-repeat}
-.about-grid .item-avatar .pic .avatar{background:url(../img/avatar.webp) center center/cover no-repeat}
-.price-content li::before{background:url(../img/check.webp) center center/cover no-repeat}
-.footer-social .telegram{background:url(../img/tg.svg) center center/cover no-repeat}
-.footer-social .telegram:hover{background:url(../img/tg-red.svg) center center/cover no-repeat}
-.footer-social .instagram{background:url(../img/inst.svg) center center/cover no-repeat}
-.footer-social .instagram:hover{background:url(../img/inst-red.svg) center center/cover no-repeat}
-.footer-creator-social li .facebook{background:url(../img/facebook-red.svg) center center/10px 16px no-repeat}
-.footer-creator-social li .facebook:hover{background:url(../img/facebook-white.svg) center center/10px 16px no-repeat}
-.footer-creator-social li .telegram{background:url(../img/telegram-red.svg) center center/17px 20px no-repeat}
-.footer-creator-social li .telegram:hover{background:url(../img/telegram-white.svg) center center/17px 20px no-repeat}
-.footer-creator-social li .whatsapp{background:url(../img/whatsapp-red.svg) center center/17px 20px no-repeat}
-.footer-creator-social li .whatsapp:hover{background:url(../img/whatsapp-white.svg) center center/17px 20px no-repeat}
-.footer-creator-social li .vk{background:url(../img/vk-red.svg) center center/30px 18px no-repeat}
-.footer-creator-social li .vk:hover{background:url(../img/vk-white.svg) center center/30px 18px no-repeat}
-.footer-creator-social li .instagram{background:url(../img/instagram-red.svg) center center/20px 20px no-repeat}
-.footer-creator-social li .instagram:hover{background:url(../img/instagram-white.svg) 45% center/20px 20px no-repeat}
-}
-
- @media (max-width: 1200px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 1100px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 1024px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 992px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 768px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 576px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 420px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 395px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (max-width: 320px){
-
-@supports (-webkit-appearance:none){
-
-}
-
-}
-
- @media (print), (prefers-reduced-motion: reduce){
-
-@supports (-webkit-appearance:none){
-
-}
-
 }
