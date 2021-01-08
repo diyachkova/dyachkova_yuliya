@@ -5783,10 +5783,11 @@ p {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    grid-gap: 0;
   }
 
   .price-item {
-    margin-bottom: 4%;
+    margin-bottom: 10%;
     padding: 30px;
     width: 80%;
   }
@@ -5956,8 +5957,12 @@ p {
     font-size: 20px;
   }
 
+  .about-grid {
+    grid-gap: 0;
+  }
+
   .about-grid-item {
-    margin-bottom: 3%;
+    margin-bottom: 10%;
     width: 80%;
     height: 100%;
   }
@@ -6000,7 +6005,7 @@ p {
   }
 
   .price-item {
-    width: 75%;
+    width: 80%;
   }
 
   .price-content {
