@@ -5789,11 +5789,16 @@ p {
   .price-item {
     margin-bottom: 10%;
     padding: 30px;
-    width: 80%;
+    width: 70%;
+  }
+
+  .price-item-2 {
+    padding-bottom: 50px;
   }
 
   .price-content {
-    width: 80%;
+    width: 100%;
+    margin-bottom: 5%;
   }
 
   .price-content-big {
@@ -5802,6 +5807,10 @@ p {
 
   .price-content li {
     margin-bottom: 15px;
+  }
+
+  .price-content-big {
+    margin: 5% auto;
   }
 
   .price-cost {
@@ -5814,6 +5823,13 @@ p {
 
   .price-title {
     text-align: center;
+  }
+
+  .price-wrap {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
   }
 
   .box {
@@ -6005,11 +6021,11 @@ p {
   }
 
   .price-item {
-    width: 80%;
+    width: 70%;
   }
 
   .price-content {
-    width: 70%;
+    width: 100%;
   }
 
   .price-content-big {
@@ -6306,6 +6322,10 @@ p {
   .price-item {
     width: 85%;
     padding: 20px;
+  }
+
+  .price-item-2 {
+    padding-bottom: 30px;
   }
 
   .price-cost {
