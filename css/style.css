@@ -6191,11 +6191,6 @@ p {
     width: 90%;
   }
 
-  .about-grid-item .content p {
-    font-size: 12px;
-    line-height: 14px;
-  }
-
   .title-center span {
     font-size: 16px;
   }
@@ -6207,10 +6202,6 @@ p {
   .services-block-2-item-title {
     font-size: 14px;
     margin-top: 20px;
-  }
-
-  .services-block-2-item-descr ul li {
-    font-size: 12px;
   }
 
   .work-content-tab img {
